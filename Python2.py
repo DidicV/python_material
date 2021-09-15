@@ -8,4 +8,5 @@ for x in range(a, b):
 		print(x , revers)
 	x = x + 1
 print("Finis")
+print("Cod pentru modificare")
 
