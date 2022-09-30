@@ -103,7 +103,7 @@ def virsta_persoana(an, luna, zi):
 	zile = now-zile
 	return zile
 
-an=int(input("Anul: "))
+an = int(input("Anul: "))
 luna=int(input("Luna: "))
 zi=int(input("Data: "))
 zile = virsta_persoana(an, luna, zi)
