@@ -104,8 +104,8 @@ def virsta_persoana(an, luna, zi):
 	return zile
 
 an = int(input("Anul: "))
-luna=int(input("Luna: "))
-zi=int(input("Data: "))
+luna = int(input("Luna: "))
+zi = int(input("Data: "))
 zile = virsta_persoana(an, luna, zi)
 
 print ("Varsta in zile: " + str(zile))
